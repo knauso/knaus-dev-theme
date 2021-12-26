@@ -1,7 +1,7 @@
 # knaus-dev-theme
 Shopify Knaus Dev theme
 
-Theme preview:
+Product preview:
 https://knaus-dev.myshopify.com/products/titancable
 Pass: knaus
 
